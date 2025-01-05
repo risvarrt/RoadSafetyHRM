@@ -1,0 +1,94 @@
+/* Global application background */
+body {
+    background-color: #f5f5f5; /* Light grey tone for the entire app */
+    font-family: "Arial", sans-serif; /* Clean and modern font */
+    color: #333; /* Darker text for readability */
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styling for centered alignment and shadow */
+.dash-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 95%; /* Responsive width */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: #333; /* Dark grey navbar */
+    color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navbar a {
+    color: white !important;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar a:hover {
+    color: #007bff !important; /* Highlighted link color */
+}
+
+/* Footer styling */
+footer {
+    background-color: #333; /* Same as navbar for consistency */
+    color: #ccc; /* Lighter grey text */
+    padding: 10px 20px;
+    text-align: center;
+    border-top: 1px solid #444; /* Subtle divider */
+    font-size: 0.9rem;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Card background and hover effect */
+.card {
+    background-color: #fff; /* White card for contrast */
+    border: none;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Slight lift on hover */
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2); /* Deeper shadow */
+}
+
+/* Buttons and Inputs */
+button,
+input[type="radio"] + label {
+    border-radius: 20px;
+    background-color: #e0e0e0; /* Grey tone */
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover,
+input[type="radio"]:checked + label {
+    background-color: #007bff; /* Accent color for active state */
+    color: white;
+    font-weight: bold;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .dash-container {
+        max-width: 100%;
+        padding: 10px;
+    }
+
+    .navbar {
+        text-align: center;
+    }
+    
+}

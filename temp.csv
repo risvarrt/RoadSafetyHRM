@@ -1,0 +1,2770 @@
+,Road Location,Count
+1196,highway,4797
+254,bedford hwy,1004
+2136,robie st,710
+2707,windmill rd,684
+1995,portland st,676
+2216,sackville dr,632
+1132,hammonds plains rd,569
+1178,herring cove rd,525
+197,barrington st,507
+2047,quinpool rd,505
+1310,joseph howe dr,493
+2397,st margarets bay rd,487
+1585,main st,459
+1386,lacewood dr,435
+793,dunbrack st,396
+125,armdale rot,393
+213,bayers rd,349
+503,chain lake dr,338
+1438,larry uteck blvd,319
+522,chebucto rd,318
+1973,pleasant st,299
+617,connaught ave,292
+2718,windsor st,280
+2589,victoria rd,274
+1901,oxford st,266
+235,beaver bank rd,265
+589,cole harbour rd,249
+2751,wright ave,248
+2025,prospect rd,240
+1804,north st,229
+53,agricola st,209
+1875,old sambro rd,207
+60,akerley blvd,203
+1061,gottingen st,202
+1339,kearney lake rd,202
+2755,wyse rd,200
+447,caldwell rd,183
+1580,main ave,180
+579,cobequid rd,177
+1743,mumford rd,175
+2765,young st,174
+425,brunswick st,171
+437,burnside dr,163
+804,dutch village rd,160
+2635,waverley rd,158
+21,a murray mackay brdg,157
+2356,south st,154
+2378,spring garden rd,153
+959,forest hills pky,148
+92,almon st,129
+2351,south park st,129
+2745,woodlawn rd,122
+1933,peggys cove rd,120
+2623,washmill lake dr,116
+1392,lady hammond rd,115
+1220,hollis st,110
+1037,glendale dr,106
+1912,parkland dr,106
+2041,queen st,105
+2740,woodland ave,105
+2720,windsor st ramp,103
+662,cow bay rd,101
+785,duke st,101
+1851,ochterloney st,100
+1320,jubilee rd,98
+77,alderney dr,97
+70,albro lake rd,96
+1872,old sackville rd,95
+2225,sackville st,95
+222,bayview rd,94
+179,baker dr,90
+1455,lawrencetown rd,83
+2013,prince albert rd,82
+1690,micmac blvd,82
+2033,purcells cove rd,82
+610,commodore dr,81
+250,bedford byps,80
+108,angus l macdonald brdg,80
+1034,glendale ave,80
+734,dentith rd,78
+2561,university ave,78
+1868,old guysborough rd,78
+1191,highfield park dr,77
+2686,willett st,77
+1241,hwy,75
+1346,kempt rd,74
+715,dartmouth rd,73
+1246,inglis st,72
+654,countryview dr,72
+1762,nantucket ave,70
+2161,rocky lake dr,70
+1584,main rd,69
+1729,morris st,68
+2571,upper water st,67
+2019,prince st,67
+1535,lucasville rd,65
+582,cogswell st,64
+2517,titus st,62
+698,cunard st,61
+273,bell blvd,60
+580,coburg rd,59
+1411,lakelands blvd,58
+275,bell rd,57
+645,cornwallis st,56
+771,dresden row,56
+1532,lower water st,55
+2527,tower rd,54
+1355,ketch harbour rd,53
+2446,summer st,50
+955,forest hills ext,49
+1809,north west arm dr,49
+2502,thistle st,48
+2475,tacoma dr,45
+1426,lancaster dr,45
+892,fall river rd,42
+709,damascus rd,42
+370,braemar dr,41
+2415,starboard dr,41
+1889,osborne st,41
+1736,mount hope ave,41
+232,beaver bank conn,40
+1734,mount edward rd,40
+2705,windgate dr,39
+449,caledonia rd,39
+2012,primrose st,38
+2616,walter havill dr,36
+514,charles st,35
+1628,massachusetts ave,34
+251,bedford highway,33
+740,devonshire ave,33
+1714,montague rd,33
+909,fenwick st,33
+666,cowie hill rd,32
+1798,north park st,32
+1941,pepperell st,31
+1926,peakview way,31
+1700,millwood dr,31
+935,flamingo dr,31
+1070,grafton st,31
+2576,valleyfield rd,31
+2127,riverside dr,31
+1828,novalea dr,30
+1303,john savage ave,30
+2461,susie lake cres,30
+2010,preston st,29
+1005,gary martin dr,29
+1316,joseph zatzman dr,29
+2699,willow st,29
+1215,hogan crt,29
+675,creighton st,29
+2021,princess margaret blvd,29
+1977,pockwock rd,28
+782,duffus st,28
+1637,maynard st,28
+2670,westwood blvd,28
+118,argyle st,28
+1992,portland hills dr,27
+2171,romans ave,27
+2234,salter st,27
+2024,prospect bay rd,27
+2191,ross rd,27
+624,connolly st,27
+401,broad st,26
+69,albert walker dr,26
+1083,granville st,26
+207,basinview dr,25
+1703,mineville rd,25
+930,first lake dr,25
+895,farnham gate rd,25
+2376,spring ave,25
+381,brenton st,25
+837,eisener blvd,25
+313,birmingham st,25
+1232,horseshoe lake dr,24
+2305,shore rd,24
+924,finlay dr,24
+1007,gaston rd,24
+1242,ilsley ave,23
+2643,wellington st,23
+1159,hawthorne st,23
+1337,kaye st,23
+2050,radcliffe dr,23
+834,edward st,23
+2657,west porters lake rd,22
+1421,lamont terr,22
+163,auburn dr,22
+701,cutler ave,22
+2697,williams lake rd,22
+2764,young ave,21
+317,bissett rd,21
+2115,ridge valley rd,21
+1705,moirs mill rd,21
+886,fairfax dr,21
+1606,maple st,20
+1366,king st,20
+1211,hines rd,20
+2680,wilkinson ave,20
+647,coronation ave,20
+2208,russell st,20
+268,beech st,19
+775,drysdale rd,19
+348,boland rd,19
+595,college st,19
+1253,innovation dr,19
+121,arklow dr,19
+1403,lake major rd,19
+127,armdale rotary,19
+570,clifton st,19
+90,alma cres,19
+1273,isleville st,19
+1427,langbrae dr,19
+1468,lemarchant st,18
+1492,lincoln crss,18
+2462,sussex st,18
+947,flying cloud dr,18
+84,allan st,18
+1759,myra rd,18
+2503,thomas raddall dr,18
+2541,trollope st,18
+1800,north preston rd,18
+1784,nine mile dr,18
+1621,market st,18
+340,blowers st,17
+695,cumberland dr,17
+44,acadia st,17
+288,bently dr,17
+1508,lockview rd,17
+813,east chezzetcook rd,17
+2361,southgate dr,17
+576,clyde st,17
+1057,gordon ave,17
+864,evans ave,17
+482,cathedral lane,16
+1962,pinehill dr,16
+1381,knightsridge dr,16
+2584,vernon st,16
+1297,joffre st,16
+1311,joseph howe drive,16
+2309,shubie dr,16
+1023,gladstone st,16
+2099,regency park dr,16
+2184,rosedale ave,16
+1880,oldham rd,16
+1592,main street,16
+2716,windsor junction rd,16
+2425,stokil dr,16
+983,frederick ave,16
+2206,rufus ave,15
+2659,west st,15
+1848,oceanview dr,15
+541,chisholm ave,15
+490,cedar st,15
+1878,old trunk rd,15
+562,clayton park dr,15
+1686,metropolitan ave,15
+586,colby dr,15
+1538,lucknow st,15
+1560,macdonald st,15
+756,dorothea dr,14
+1644,mcclure cl,14
+418,brownlow ave,14
+1305,john stewart dr,14
+2514,timberlea village pky,14
+2096,regal rd,14
+1463,leeds st,14
+2614,walnut st,14
+1150,hartlen st,14
+301,bilby st,14
+1372,kingswood dr,14
+157,atlantic st,14
+2000,portland street,13
+2061,ramp cogs ramp,13
+1959,pinecrest dr,13
+777,dublin st,13
+2655,west petpeswick rd,13
+608,commission st,13
+1415,lakeview ave,13
+753,donaldson ave,13
+1174,henry st,13
+2304,shore dr,13
+1720,moose river rd,13
+2650,wentworth st,13
+1460,leaman dr,13
+800,dundas st,13
+2492,terence bay rd,13
+1014,george st,13
+1816,northwood terr,12
+1943,perrin dr,12
+395,brigadoon ave,12
+1685,merrimac dr,12
+605,columbus st,12
+2048,quinpool road,12
+2116,ridgecrest dr,12
+1613,margeson dr,12
+1616,marginal rd,12
+2558,uniacke st,12
+1389,lacewood drive,12
+1664,meadowbrook dr,12
+407,brook st,12
+538,chestnut st,12
+1315,joseph young st,12
+1791,norm newman dr,12
+2654,west pennant rd,12
+2222,sackville drive,12
+1760,nadia dr,12
+2268,scot st,12
+1275,isnor dr,12
+1695,milford rd,12
+1044,glenforest dr,12
+738,desmond ave,12
+1352,kent st,12
+64,alabaster way,11
+1377,kline st,11
+1299,john brackett dr,11
+1279,jackson rd,11
+2017,prince arthur ave,11
+2059,ralston ave,11
+802,dutch settlement rd,11
+1151,harvard st,11
+2508,thornhill dr,11
+255,bedford hwy ramp,11
+432,buddy daye st,11
+498,central ave,11
+2275,seapoint rd,11
+2168,roleika dr,11
+218,bayne st,11
+2302,shirley st,11
+2158,rockingstone rd,11
+530,cherry brook rd,11
+991,fuller terr,11
+552,circassion dr,11
+1650,mcfatridge rd,11
+1958,pine st,11
+889,fairview overpass cmp,11
+1602,manor dr,11
+1207,hillsboro dr,10
+1834,oak st,10
+726,dellridge lane,10
+1332,kane st,10
+704,dahlia st,10
+681,crichton ave,10
+1408,lakefront rd,10
+1909,park ave,10
+1772,nelsons landing blvd,10
+1596,maitland st,10
+1949,peter saulnier dr,10
+891,falkland st,10
+2599,vimy ave,10
+945,florence st,10
+151,astral dr,10
+204,barrington street,10
+234,beaver bank cross rd,10
+2324,sinclair st,10
+2627,waterfront dr,10
+411,brookline dr,9
+1862,old beaver bank rd,9
+67,albemarle st,9
+408,brookdale cres,9
+2530,transom dr,9
+798,duncan st,9
+253,bedford hills rd,9
+473,carmichael st,9
+941,fleetview dr,9
+2652,west jeddore rd,9
+1009,gateway rd,9
+867,everette st,9
+2261,scholars rd,9
+391,briarwood dr,9
+1502,liverpool st,9
+1716,montebello dr,9
+2287,seymour st,9
+1087,green st,9
+1135,hammonds plains road,9
+1003,garland ave,9
+1554,macdonald ave,9
+2413,stanley st,9
+816,east jeddore rd,9
+2334,slayter st,9
+557,clam harbour rd,9
+347,bluewater rd,9
+2392,st george blvd,9
+2111,richmond st,9
+2339,smokey dr,9
+377,breeze dr,9
+2089,raymoor dr,9
+1983,poplar dr,9
+767,doyle st,9
+1280,jacob lane,9
+920,fielding ave,9
+1978,point pleasant dr,9
+2586,vestry st,8
+2450,summit st,8
+2451,sunnybrae ave,8
+1504,livingstone st,8
+510,chandler dr,8
+417,broom rd,8
+631,conrod settlement rd,8
+444,cabela rd,8
+228,beaufort ave,8
+2690,william hunt ave,8
+2711,windmill road,8
+2174,ronald smith ave,8
+1984,poplar st,8
+692,crystal dr,8
+1348,kennedy dr,8
+2674,white hills run,8
+81,alex st,8
+2596,victoria road,8
+1454,lawrence st,8
+35,abbey rd,8
+1817,norwood st,8
+1165,hector gate,8
+1432,larch st,8
+984,freer lane,8
+898,farrell st,8
+812,eaglewood dr,8
+2567,upper governor st,8
+319,black st,8
+2493,terminal rd,8
+2055,rainnie dr,8
+1514,london st,8
+2437,strawberry hill st,8
+2124,river rd,8
+1927,pearson dr,8
+1227,hood st,8
+721,deal st,8
+2006,pratt and whitney dr,8
+36,abbington ave,8
+1008,gatehouse run,8
+1866,old ferry rd,8
+829,edgewood ave,7
+249,bedford bypass nb off ramp,7
+2082,rankin dr,7
+2087,raymond dr,7
+2525,torrington dr,7
+480,castle hill dr,7
+2532,tremont dr,7
+1283,james st,7
+2215,sackville cross rd,7
+821,east petpeswick rd,7
+186,bancroft lane,7
+2409,stairs st,7
+2045,quinn st,7
+162,auburn ave,7
+2321,simmonds rd,7
+997,gale terr,7
+1145,harlington cres,7
+2233,salmon river dr,7
+1406,lakecrest dr,7
+636,cooks brook rd,7
+502,chadwick st,7
+1727,morris dr,7
+2470,sylvia ave,7
+1149,hartlen ave,7
+508,chameau cres,7
+1782,nictaux dr,7
+451,cambridge st,7
+1860,ogilvie st,7
+2646,welsford st,7
+48,adelaide ave,7
+691,crown dr,7
+97,amesbury gate,7
+282,bellefontaine rd,7
+1396,lahey rd,7
+2105,renfrew st,7
+850,ellenvale ave,7
+1374,kinsac rd,7
+2144,robie street,7
+2610,walker ave,7
+2587,veterans memorial lane,7
+2649,wentworth dr,7
+1180,herring cove road,7
+1892,ostrea lake rd,7
+413,brookshire crt,7
+281,belle vista dr,7
+2072,ramp macc ramp,6
+2622,washmill lake cmp,6
+1089,green village lane,6
+809,dyke rd,6
+1536,lucien dr,6
+2118,ridgevale dr,6
+155,athorpe dr,6
+1707,monaghan dr,6
+622,connolly rd,6
+415,brookside rd,6
+1548,lynnett rd,6
+2733,wittenburg rd,6
+1935,peggys point rd,6
+2434,stratford way,6
+194,barnstead lane,6
+1629,massachusetts ave ramp,6
+1177,heritage hills dr,6
+2383,springvale ave,6
+1206,hillcrest st,6
+1605,maple grove ave,6
+1598,major st,6
+1051,gloria mccluskey ave,6
+1955,pine grove dr,6
+1953,philip st,6
+1665,meadowlark cres,6
+1673,mellor ave,6
+1577,mailing st,6
+2658,west ship harbour rd,6
+1553,macara st,6
+291,berlin st,6
+536,chestnut lane,6
+1025,glen arbour way,6
+1622,marketplace dr,6
+439,burnside drive,6
+2487,taranaki dr,6
+2580,veith st,6
+2693,william st,6
+1011,gebhardt st,6
+2482,tamarack dr,6
+486,cavalier dr,6
+931,first st,6
+1024,glebe st,6
+1990,portland estates blvd,6
+248,bedford bypass,6
+1994,portland pl,6
+452,camelot lane,6
+269,beech tree run,6
+2520,tobin st,6
+2694,williams ave,6
+144,ashburn ave,6
+130,armenia dr,6
+1243,indian point rd,6
+2612,walker service rd,6
+1016,gerrish st,6
+1893,otago dr,6
+638,cork st,6
+1476,les collins ave,6
+854,elm st,6
+262,bedford windsor ramp,6
+670,cranberry cres,6
+1484,lier rg,6
+1805,north st ramp,6
+577,coach ave,5
+1198,higney ave,5
+1597,majestic ave,5
+1212,hirandale cres,5
+2371,spencer ave,5
+1604,maple dr,5
+731,demone st,5
+2373,spikenard st,5
+2500,theakston ave,5
+2418,stella dr,5
+2421,stewart hill rd,5
+1398,lake eagle dr,5
+1336,katrina cres,5
+2426,stone mount dr,5
+2490,temple terr,5
+633,convoy ave,5
+2714,windsor dr,5
+630,conrads rd,5
+796,dunbrack street,5
+68,albert st,5
+145,ashdale ave,5
+2722,windsor street,5
+1529,lower partridge river rd,5
+2633,watt st,5
+1471,lemlair row,5
+1341,kearney lake road,5
+2472,symonds st,5
+1546,lynch st,5
+51,africville rd,5
+37,abbott dr,5
+2432,stoneybrook crt,5
+765,downsview dr,5
+93,almon street,5
+601,colonna pl,5
+2560,union st,5
+2031,punch bowl dr,5
+905,federal ave,5
+532,cherry st,5
+491,cedarbrae lane,5
+1739,mountain rd,5
+1918,passage rd,5
+504,chain lake drive,5
+1721,mooseland rd,5
+2114,ridding rd,5
+1942,percy st,5
+1086,green rd,5
+512,chappell st,5
+513,charles rd,5
+2285,seton rd,5
+1956,pine hill dr,5
+516,charlotte lane,5
+1961,pinehaven dr,5
+209,basswood run,5
+1911,parker st,5
+412,brooks dr,5
+836,eileen stubbs ave,5
+2212,rutledge st,5
+265,bedros lane,5
+276,bell road,5
+2196,rowe ave,5
+277,bell st,5
+459,canary cres,5
+278,bellbrook cres,5
+1796,north marginal rd,5
+1895,otter lake dr,5
+1012,george dauphinee ave,5
+471,carlton st,5
+831,edinburgh st,5
+1883,olivet st,5
+423,brule st,5
+483,catherine st,5
+1692,micmac st,5
+2107,rhuland st,5
+553,circle dr,5
+2080,randall ave,5
+1640,mayor ave,5
+338,bloomfield st,5
+356,booth st,5
+1646,mccully st,5
+2073,ramp macg ramp,5
+2332,skyridge ave,5
+548,churchill crt,5
+1838,oakland rd,5
+1969,plateau cres,5
+847,elizabeth doane dr,4
+431,buckingham dr,4
+1217,holland rd,4
+1068,government wharf rd,4
+1048,glenwood ave,4
+2605,voyageur way,4
+2051,raddall ave,4
+427,brunswick street,4
+1189,high st,4
+2178,roosevelt dr,4
+1270,irving st,4
+2044,quingate pl,4
+902,faulkner st,4
+1876,old sambro road,4
+1164,hebridean dr,4
+83,alfred st,4
+1286,jamieson st,4
+2592,victoria rd sb exit  hwy  eb ramp,4
+1363,kiltearn row,4
+280,belle st,4
+2747,woodlawn road,4
+1371,kings wharf pl,4
+1194,highfield st,4
+1861,oland cres,4
+2038,quarry rd,4
+2767,young street,4
+856,elmwood ave,4
+1050,gloria ave,4
+1847,oceanlea dr,4
+2582,verdi dr,4
+2092,red fern terr,4
+2732,withrod dr,4
+2094,red wing dr,4
+56,agricola street,4
+2666,westridge dr,4
+314,bishop st,4
+1974,pleasant street,4
+369,bradorian dr,4
+1064,gottingen street,4
+1249,ingram dr,4
+2189,rosewood lane,4
+1248,inglis street,4
+2698,williams st,4
+1991,portland estates blvd west,4
+2701,willowdale dr,4
+383,brentwood ave,4
+305,birch bear run,4
+325,blk highway,4
+760,douglas cres,4
+1931,peddars way,4
+736,dentith road,4
+1920,patton rd,4
+2640,wedgewood ave,4
+926,finnian row,4
+2078,ramp macm ramp,4
+1168,helene ave,4
+1326,julius blvd,4
+713,darlington dr,4
+1267,irishtown rd,4
+1060,gorsebrook ave,4
+2675,whitehall cres,4
+1027,glen manor dr,4
+1967,pipeline rd,4
+2369,spectacle lake dr,4
+2570,upper partridge river rd,4
+2301,sherwood st,4
+1681,memorial dr,4
+1689,mica cres,4
+1097,greenwood ave,4
+2438,stuart harris dr,4
+1547,lyngby ave,4
+216,bayers road,4
+957,forest hills parkway,4
+153,athlone ave,4
+1677,melrose cres,4
+2298,sheppards run,4
+1704,mitchell st,4
+1710,monastery lane,4
+2190,roslyn rd,4
+2286,settle st,4
+628,conrad rd,4
+1718,moore rd,4
+1101,greystone dr,4
+1676,melrose ave,4
+634,convoy run,4
+1642,mccabe lake dr,4
+575,club rd,4
+1632,may st,4
+985,french village station rd,4
+1127,hallmark ave,4
+2388,st andrews ave,4
+1641,mcalpine ave,4
+980,fraser rd,4
+2398,st margarets bay road,4
+1568,mackintosh st,4
+559,clarence st,4
+2404,st michaels ave,4
+2407,st pauls st,4
+1652,mcgee dr,4
+547,church st,4
+1573,magazine hill,4
+599,collins grv,4
+2274,seaforth st,4
+1712,mont st,4
+659,courtney rd,4
+1808,north street,4
+479,carver st,4
+1081,grant st,4
+635,cook ave,4
+2211,ruth goldbloom dr,4
+464,capstone cres,4
+261,bedford st,4
+669,craigmore dr,4
+671,crane lake dr,4
+244,beaverbank road,4
+111,antrim rd,4
+1821,nottingham st,4
+1827,nova terr,4
+1399,lake egmont rd,4
+679,cresthaven dr,4
+103,ancona pl,4
+1018,gesner st,4
+134,armview ave,4
+2557,under review  un,4
+1731,mosher dr,4
+2263,school st,4
+637,coolens rd,4
+2474,ta rd,4
+2459,supreme crt,4
+1148,hartland dr,4
+1010,geary st,4
+862,esdaile ave,4
+1147,harris st,4
+501,chadwick pl,4
+494,celebration dr,4
+988,freshwater trl,3
+1137,hampton grn,3
+1098,gregory dr,3
+1107,guildford ave,3
+973,fox hollow dr,3
+910,fenwood rd,3
+1140,hanover st,3
+916,fernhill dr,3
+1031,glenalva crt,3
+970,foulis row,3
+1166,heddas way,3
+1096,greenpark cl,3
+1188,high rd,3
+990,fringe dr,3
+1187,higginsville rd,3
+937,flat lake dr,3
+923,findlay rd,3
+1073,grahams grv,3
+1105,grove st,3
+1079,granite cove dr,3
+1084,grassy lake dr,3
+1066,gourok ave,3
+1384,la pierre cres,3
+1208,hillside ave,3
+2199,royal masts way,3
+2319,simcoe pl,3
+2315,silver maple dr,3
+2313,silver birch dr,3
+2293,shaunslieve dr,3
+2290,shannonvale crt,3
+2271,sea king dr,3
+2253,saskatoon dr,3
+2252,sarnia ave,3
+2247,sandy run,3
+2238,sami dr,3
+2237,sambro creek rd,3
+2213,ryland ave,3
+2204,ruben crt,3
+2195,round tuit rd,3
+2330,sky blvd,3
+2192,ross st,3
+2187,rosemary dr,3
+2185,rosedale dr,3
+2166,rogers dr,3
+2156,rockhaven dr,3
+2152,rockcliffe cres,3
+2134,roberts st,3
+2131,robert burns dr,3
+2122,rivendale dr,3
+2110,richardson dr,3
+2098,regency dr,3
+2075,ramp mach ramp,3
+2054,ragus rd,3
+2320,simmonds dr,3
+2337,smith st,3
+2023,princeton lane,3
+2534,trider cres,3
+2758,yale st,3
+2757,wyse road,3
+2738,woodbury dr,3
+2736,woodbine dr,3
+2702,wilson lake dr,3
+2688,willett street,3
+2664,westmount st,3
+2639,waverly terr,3
+2637,waverley road,3
+2613,walker st,3
+2588,vicky cres,3
+2575,valkyrie cres,3
+2538,trinity ave,3
+2524,topsail blvd,3
+2349,south bland st,3
+2495,terradore lane,3
+2489,taylor dr,3
+2488,tartan ave,3
+2479,talus ave,3
+2454,sunrise hill,3
+2443,sullivans hill,3
+2442,sullivan st,3
+2416,states lane,3
+2403,st matthias st,3
+2402,st marys rd,3
+2395,st margaret's bay rd,3
+2381,springhill rd,3
+2379,spring garden road,3
+2037,quaker cres,3
+2011,prestwick cl,3
+1210,hilltop dr,3
+1397,lake dr,3
+1519,longard plz,3
+1507,locks rd,3
+1503,livingstone pl,3
+1490,limestone ave,3
+1487,lilac st,3
+1474,leppert st,3
+1466,legacy crt,3
+1465,leeward ave,3
+1436,larry uteck,3
+1428,langdon dr,3
+1423,lanark st,3
+1419,lakeview rd,3
+1402,lake loon rd,3
+1349,kenny st,3
+1545,lynch estate crt,3
+1335,karen dr,3
+1330,kaleigh dr,3
+1327,june st,3
+1323,judy ave,3
+1291,jennings st,3
+1290,jennett ave,3
+1287,jarvis lane,3
+1276,ivanhoe st,3
+1251,ingramport conn,3
+1235,howe ave,3
+1231,hornes rd,3
+1221,hollis street,3
+1213,hobsons lake dr,3
+1543,lyle st,3
+1550,lynnville dr,3
+1964,pinetree cres,3
+1770,nelson dr,3
+1963,pinehill rd,3
+1947,petain station rd,3
+1937,penhorn dr,3
+1936,pelzant st,3
+1905,oxford street,3
+1886,orange walk,3
+1837,oakhill dr,3
+1802,north preston road,3
+1788,nora bernard st,3
+1787,nivens ave,3
+1785,nine mile drive,3
+1783,nightingale dr,3
+1777,newcastle st,3
+1756,mushaboom rd,3
+1566,mackay bridge ramp,3
+1717,montgomery crt,3
+1701,millwood drive,3
+1699,mills dr,3
+1696,mill lane,3
+1693,middle st,3
+1691,micmac dr,3
+1682,memory lane,3
+1680,melwood ave,3
+1675,melody dr,3
+1661,meadow rd,3
+1626,marvin st,3
+1608,maplewood dr,3
+1600,mandaville crt,3
+1829,novalea drive,3
+2768,zinck ave,3
+846,eliza ritchie cres,3
+339,bloomingdale terr,3
+219,bayne st ramp,3
+167,avenue du portage,3
+148,aspen cres,3
+764,downs ave,3
+621,connaught bayers ramp,3
+728,delta dr,3
+13,a highway,3
+212,bayers mill rd,3
+65,alan st,3
+324,bliss st,3
+762,downey rd,3
+133,armstrong crt,3
+540,chipstone cl,3
+686,cross rd,3
+861,erskine st,3
+550,churchill dr,3
+172,b chain lake dr,3
+544,christopher ave,3
+146,ashgrove ave,3
+571,clinton ave,3
+210,bauer st,3
+807,dutch village road,3
+307,birch st,3
+724,deerbrooke dr,3
+284,belmont ave,3
+574,clovis ave,3
+642,cornwall st,3
+752,dolby hill rd,3
+819,east pennant rd,3
+271,bel ayr ave,3
+711,danny dr,3
+260,bedford row,3
+106,andover st,3
+436,burke st,3
+57,ahern ave,3
+495,celtic dr,3
+137,arthur joseph dr,3
+389,briarwood cres,3
+378,brenda dr,3
+229,beaufort dr,3
+710,danforth rd,3
+227,beaconsfield way,3
+237,beaver bank road,3
+141,arvida ave,3
+596,collingwood crt,3
+31,a windmill rd,3
+105,anderson rd,3
+139,artillery pl,3
+221,bayview drive,3
+465,carbon rd,3
+43,acadia mill dr,3
+1292,jericho rd,2
+2130,riverwood dr,2
+500,centre st,2
+732,denise dr,2
+140,artz st,2
+730,demetreous lane,2
+2135,robie,2
+1288,jayden dr,2
+1282,james roy dr,2
+1713,montague mines rd,2
+2139,robie st ramp,2
+2153,rockcliffe dr,2
+2439,studley ave,2
+293,berts dr,2
+706,daisywood dr,2
+154,atholea dr,2
+2444,sullivans pond cmp,2
+1333,karels dr,2
+1331,kane pl,2
+1708,monarch dr,2
+2448,summer street,2
+1328,juniper cres,2
+716,dartmouth road,2
+1302,john parr dr,2
+1325,julies walk,2
+150,aster crt,2
+2150,rochester dr,2
+1319,jubilee lane,2
+509,champions way,2
+2146,robina dr,2
+2463,swaine st,2
+2142,robie st.,2
+2468,sycamore lane,2
+1724,morningside dr,2
+136,arsenal dr,2
+1752,murray mckay bridge,2
+742,dewhurst dr,2
+2544,trunk,2
+484,caudle park cres,2
+761,douglas dr,2
+2104,regina terr,2
+2101,regent dr,2
+2537,trimble crt,2
+1776,newbury rd,2
+2539,trinity lane,2
+2100,regency park drive,2
+312,birkdale cres,2
+1209,hillside dr,2
+772,driftwood cres,2
+2543,true north cres,2
+1205,hillcrest ave,2
+1202,hilden dr,2
+1226,honeysuckle rd,2
+2546,trunk  to bedford bypass on ramp,2
+1200,hiking trail rd,2
+316,bissett lake rd,2
+475,carriageway cres,2
+1195,highland ave,2
+2553,turnmill dr,2
+2554,tuscany run,2
+472,carmel cres,2
+781,duffus dr,2
+2556,una dr,2
+784,duggan dr,2
+1185,hewer cres,2
+1184,hester st,2
+2106,rhodora dr,2
+759,douglas ave,2
+2491,tenon dr,2
+2510,tilbury ave,2
+1740,mountbatten ave,2
+2494,ternan gate,2
+300,big hubley lake dr,2
+1745,mumford road,2
+2123,river lane,2
+1264,inverness ave,2
+1263,inverary dr,2
+1749,muriel ave,2
+1345,keltic dr,2
+2506,thorne ave,2
+1255,inspector crt,2
+122,arlington ave,2
+1754,murray rd,2
+2511,tillock dr,2
+2108,richard st,2
+304,binney st,2
+487,cavendish dr,2
+1761,nantucket,2
+485,causeway rd,2
+1240,hunter st,2
+117,argus dr,2
+1238,hudson way,2
+1237,hubleys rd,2
+2262,school ave,2
+2522,toni ave,2
+2523,topple dr,2
+116,ardwell ave,2
+1230,horizon crt,2
+1344,kelly st,2
+446,cain st,2
+702,cutter dr,2
+623,connolly road,2
+1512,logiealmond cl,2
+1511,loggen rd,2
+591,cole rd,2
+1509,lodge dr,2
+239,beaver harbour rd,2
+1506,locke st,2
+1599,malay falls lochaber mines rd,2
+2236,samaa crt,2
+2312,silistria dr,2
+2314,silver dart dr,2
+2317,silverside dr,2
+2318,silverwood terr,2
+1496,linden lea,2
+1603,manor lane,2
+242,beaverbank rd,2
+2228,saddleback rd,2
+2327,sirius cres,2
+1611,margaret rd,2
+2329,skeena st,2
+1612,margate dr,2
+1477,leslie rd,2
+1623,marketway lane,2
+1624,marlborough ave,2
+1467,leiblin dr,2
+650,cortland rg,2
+2346,somerset st,2
+1462,leaside dr,2
+1513,lombardy lane,2
+1516,londra crt,2
+700,curley dr,2
+2240,samuel danial dr,2
+2260,schnare st,2
+1563,mackay bridge,2
+2259,scarlet rd,2
+1561,macdonalds beach rd,2
+2258,scarfe crt,2
+230,beaumont dr,2
+2257,sawyer cres,2
+598,collins grove crt,2
+2256,sawler lake rd,2
+2251,saratoga dr,2
+2279,sedrich rd,2
+612,commodore rd,2
+613,compton ave,2
+2281,selig st,2
+2282,seligs rd,2
+2283,sentinal sqr,2
+615,confederation ave,2
+223,beach rd,2
+594,colindale st,2
+2291,sharon dr,2
+220,bayview dr,2
+2296,sheldrake cres,2
+1527,lovett lake crt,2
+1589,main st.,2
+2243,sandlewood terr,2
+2300,sheridan st,2
+592,coleridge crt,2
+567,cleveland cres,2
+195,barrett rd,2
+193,barnes dr,2
+1457,lays lake rd,2
+174,b highway,2
+545,church point rd,2
+2405,st pauls ave,2
+1679,melville ave,2
+543,christies rd,2
+1382,knightsridge drive,2
+687,crossfield rg,2
+2417,station rd,2
+688,crossroads crt,2
+2170,rolling hills dr,2
+1688,mic mac blvd,2
+535,chester ave,2
+690,crowell rd,2
+1370,kings rd,2
+1369,kingfisher way,2
+2423,stillwater lake dr,2
+2424,stockton rg,2
+165,autumn dr,2
+1365,kinclaven dr,2
+696,cumberland rd,2
+1362,killkee gate,2
+1358,keyport ave,2
+2163,rocky lake drive,2
+1697,miller lake rd,2
+2435,strath lane,2
+525,chebucto road,2
+1350,kent ave,2
+2177,roome st,2
+549,churchill downs circ,2
+678,crestfield dr,2
+661,cove rd,2
+566,clermont cres,2
+1634,mayfield ave,2
+2207,russell lake dr,2
+1447,laurel ridge dr,2
+1446,"lat:  '.""""n long:  '.""""w",2
+1443,larry uteck bvld,2
+2364,southwood dr,2
+560,clayder lane,2
+1647,mccurdy ave,2
+188,banook ave,2
+2375,spinner cres,2
+266,beech hill dr,2
+2380,springfield lake rd,2
+2181,rose fortune gate,2
+664,cowbay road,2
+267,beech hill rd,2
+1657,mcmullen rd,2
+1420,lakewood dr,2
+182,bald rock rd,2
+1417,lakeview dr,2
+2387,spry ave,2
+1413,lakeshore park terr,2
+673,crawford st,2
+283,bellevue ave,2
+1667,medford st,2
+2182,rose st,2
+1183,hescott st,2
+233,beaver bank connector,2
+470,carlson crt,2
+47,adams ave,2
+46,acres rd,2
+45,acorn dr,2
+2030,pryor st,2
+1047,glenmont ave,2
+1870,old halifax rd,2
+2662,westerwald st,2
+1041,glendale drive,2
+2665,westphal way,2
+434,bundy lane,2
+786,duke street,2
+433,bumpy lane,2
+849,elizabeth st,2
+1877,old school rd,2
+1032,glencoe dr,2
+2672,weyburn rd,2
+1030,glen rise dr,2
+2673,white birch dr,2
+1026,glen eagle way,2
+2676,whynachts point rd,2
+855,elmdale cres,2
+1884,ontario st,2
+858,equine crt,2
+2018,prince arthur st,2
+843,eleanor lane,2
+346,blue thistle rd,2
+34,aarons way,2
+2653,west lawrencetown rd,2
+1099,grenadier dr,2
+820,east perimeter road,2
+1093,greenhill rd,2
+1845,obrine st,2
+66,albacore pl,2
+2628,waterloo st,2
+2630,waterstone run,2
+1849,oceanview school rd,2
+826,echo forest dr,2
+827,edgehill rd,2
+1080,grant line rd,2
+830,edinborough crt,2
+1078,grandville st,2
+341,blowers street,2
+1853,oconnell dr,2
+2638,waverly rd,2
+61,akerley blvd.,2
+833,edward laurie dr,2
+1069,governors lake dr,2
+343,blue hill rd,2
+839,eisener st,2
+2036,purdys lane,2
+1864,old coach rd,2
+1887,orchard dr,2
+863,estates rd,2
+1841,oakwood ave,2
+958,forest hills pkwy,2
+1986,porters lake station rd,2
+954,forest hill pkwy,2
+952,forest hill dr,2
+2734,wood ave,2
+949,ford st,2
+948,forbes st,2
+887,fairmount rd,2
+1980,ponderosa dr,2
+399,bristol ave,2
+936,flamingo drive,2
+934,flagstone dr,2
+397,bright st,2
+1971,pleasant,2
+929,first ave,2
+1940,penstock crt,2
+2752,wright avenue,2
+1945,perron dr,2
+1965,pioneer ave,2
+2759,yankeetown rd,2
+380,brenton pl,2
+913,ferindonald cl,2
+912,fergusons cove rd,2
+2,.,2
+883,fader st,2
+960,forest rd,2
+2687,willett st & lacewood dr,2
+404,broadway st,2
+868,evergreen pl,2
+2689,william borrett terr,2
+870,executive dr,2
+358,bosun run,2
+998,galloway dr,2
+2009,prescott st,2
+1897,outrigger cres,2
+993,fury dr,2
+360,boundary st,2
+989,friesian crt,2
+2704,windcrest terr,2
+23,a murray mackay bridge,2
+2709,windmill rd.,2
+1999,portland st.,2
+2713,windridge lane,2
+977,frances st,2
+975,foxgrove lane,2
+409,brookfield ave,2
+18,a lucien dr,2
+364,bowater mersey rd,2
+2724,windsor street ramp,2
+2726,windstone cl,2
+962,forestside cres,2
+1100,grennan dr,2
+2027,prospect road,2
+1161,hazelton hill,2
+468,carleton st,2
+908,fenerty rd,2
+1795,north green rd,2
+98,amin st,2
+2077,ramp mack ramp,2
+1110,gurholt dr,2
+1111,guy st,2
+1153,harvey st,2
+1112,haddad dr,2
+1130,hammonds plains,2
+1141,hansens lane,2
+321,bland st,2
+2615,walnut street,2
+2600,vincent st,2
+1162,head harbour dr,2
+2071,ramp fvo jhk ramp,2
+466,caribou rd,2
+1836,oakfield park rd,2
+2070,ramp fvo dvk ramp,2
+2581,venus dr,2
+1118,haliburton ave,2
+462,canterbury st,2
+2617,walter peters dr,2
+815,east dover rd,2
+2604,viscount run,2
+1789,nordic cres,2
+1813,northwest arm dr,2
+1103,gristmill crt,2
+1104,grove rd,2
+88,allison dr,2
+1790,noria cres,2
+788,dumbarton ave,2
+461,canterbury lane,2
+1154,hastings dr,2
+2602,virginia ave,2
+1792,norman blvd,2
+2091,rector st,2
+2086,ravines dr,2
+1106,grover dr,2
+89,alm ramp,2
+454,cameron st,2
+1173,hennessey st,2
+2221,sackville dr/highway,1
+1993,portland hills drive,1
+365,boxwood cres,1
+363,bowater mercy,1
+2220,sackville dr.,1
+2227,sackville street,1
+362,boutiliers cove rd,1
+245,beckfoot dr,1
+2229,saguenay pl,1
+2223,sackville drive and beaver bank cross road,1
+2224,sackville drive/connolly road,1
+243,beaverbank rd / glendale ave,1
+2226,sackville st &  bell rd,1
+366,brackstone crt,1
+2102,regent drive,1
+247,bedford by-pass,1
+2219,sackville dr vtm_amp riverside dr,1
+252,bedford highway vtm_amp larry uteck blvd,1
+2005,powers rd,1
+2205,rudledge st,1
+259,bedford hwy/windsor st,1
+2004,powers dr,1
+310,birchill dr,1
+258,bedford hwy/ hammonds plains rd,1
+2209,russle st,1
+2210,rustic rg,1
+257,bedford hwy.,1
+2003,power terr,1
+256,bedford hwy ramp/windsor st,1
+2002,powder mill rd,1
+2001,portlland st,1
+2103,regent rd,1
+2214,s.margaret's bay rd,1
+311,birchwood terr,1
+361,boutilier dr,1
+326,blk ostrea lake rd,1
+2231,saint margarets bay road,1
+1998,"portland st, dartmouth",1
+2079,ramsgate lane,1
+246,bedford  bypass,1
+1997,portland st / aldeney dr,1
+2217,sackville dr (highway ),1
+2218,sackville dr / pinehill dr,1
+1996,portland st & eisener blvd,1
+2230,sailors trail,1
+296,bicentenial highway,1
+2232,salmon hole loop,1
+320,blain eric dr,1
+2245,sandy lane,1
+2095,redoubt way,1
+2246,sandy point rd,1
+373,braemount dr,1
+318,bissett road dartmouth,1
+238,beaver cres,1
+374,braeside lane,1
+1972,pleasant dr,1
+2248,sarah cres,1
+2249,sarah dr,1
+2250,sarah st,1
+2093,red fern terrace,1
+1970,plaza dr,1
+1989,portland estates,1
+375,brandy crt,1
+1968,piper st,1
+376,breen ave,1
+236,beaver bank rd.,1
+2254,savona crt,1
+1966,pioneer hill,1
+2255,savoy ave,1
+2090,rebecca dr,1
+379,brennans rd,1
+382,brenton street,1
+1960,pinegrove dr,1
+384,brian dr,1
+2244,sandstone ave,1
+1975,pleasent st @ everette st,1
+2088,raymond st,1
+1976,plymouth rd,1
+2081,randall st,1
+1988,portland  st,1
+323,blink bonnie terr,1
+241,beaverbank connector,1
+2235,salter st / hollis st,1
+2083,ranya lane,1
+1987,portland,1
+2007,pratt and whitney drive,1
+315,bisley crt,1
+240,beaverbank,1
+1985,porland street,1
+367,bradbury ln,1
+2084,ravencroft and highway,1
+368,bradford pl,1
+2085,ravenscraig dr,1
+2097,regan dr,1
+2239,sampson dr,1
+1982,poonam crt,1
+1981,pondicherry cres,1
+2241,samuel terr,1
+322,blind bay dr,1
+2242,samuel walker dr,1
+1979,polara dr,1
+371,braemar dr to main ramp,1
+372,braemar to main ramp,1
+2203,rt.  inbound to halifax,1
+327,blk windmill rd ob,1
+2202,royalvue crt,1
+345,blue mountain dr,1
+2040,quartz dr,1
+2155,rockhaven crt,1
+2039,quarrystone dr,1
+2126,rivers end rd,1
+2125,river road,1
+344,blue jay st,1
+2157,rockhead crt,1
+292,bernard st,1
+2035,purcells cove road,1
+2034,purcells cove rd./herring cove rd,1
+2159,rocklyn rd,1
+2160,rockwood ave,1
+2056,rainnie drive,1
+2057,raleigh crt,1
+342,blue forest lane,1
+2032,purcells cove / herring cove rd,1
+290,berkshire cl,1
+2162,rocky lake dr vtm_amp duke st,1
+2058,ralph devlin dr,1
+302,bilton lane,1
+2164,rodney rd,1
+2121,riley rd,1
+2165,rodney terr,1
+289,benvie hill rd,1
+2167,roland rd,1
+331,block highway,1
+2120,rifle range lane,1
+287,benjamin green dr,1
+2154,rockcrest dr,1
+299,bicentennial highway from ramp  to,1
+2060,ramp,1
+2143,"robie st., halifax",1
+2137,robie st & lady hammond rd,1
+2138,robie st / williams st,1
+2052,rafting dr,1
+334,block peggys cove rd,1
+335,block quinpool rd,1
+297,bicentenial hwy,1
+2140,robie st ramp / mackay ramp,1
+2133,robert st,1
+2049,quinpool road and oxford street,1
+333,block old sambro rd,1
+2132,robert dr,1
+2141,robie st vtm_amp university ave,1
+336,block rainnie dr,1
+295,beverley st,1
+2042,queen street,1
+2145,robin st,1
+337,block university ave,1
+298,bicentennial highway,1
+2147,robinson dr,1
+2148,robinson rd,1
+2149,roblea dr,1
+2046,quinnpool road,1
+2129,riverview cres,1
+2151,rock rd,1
+294,between leeds and bright street,1
+2128,riverside drive,1
+332,block joseph zatzman dr,1
+2043,queens,1
+2119,ridgewood dr,1
+330,block gottingen st,1
+2201,royalfern way,1
+355,bonnie brae dr,1
+329,block caldwell rd,1
+279,belle aire terr,1
+2186,rosehedge lane,1
+274,bell bvld,1
+2188,rosemount ave,1
+328,block bayers rd,1
+2016,prince albert road / ochterloney st,1
+272,bel ayr avenue,1
+2074,ramp macg ramp - barrington st.,1
+270,before the ramp on hwy,1
+2015,prince albert road,1
+308,birchdale ave,1
+2014,prince albert rd.,1
+357,booth street,1
+2183,rosebank ave,1
+309,birchgrove dr,1
+2193,rossi dr,1
+2194,rothwell st,1
+359,boulderwood rd,1
+2053,ragged lake blvd,1
+264,bedrock lane,1
+2109,richards dr,1
+2197,roxbury cres,1
+2076,ramp macj ramp,1
+2198,roy archibald dr,1
+263,bedford windsor ramp / windsor st,1
+2200,royale blvd,1
+2008,prescott dr,1
+354,bondi dr,1
+2069,ramp fvo dvb ramp,1
+2029,prospect wharf rd,1
+2065,ramp fvo bdv ramp,1
+2062,ramp exit  off highway   north,1
+303,binnacle crt,1
+2169,roleika drive,1
+2028,prospect road and bayview drive,1
+2063,ramp f,1
+2026,prospect river crt,1
+2064,ramp fvo bdv,1
+2117,ridgestone crt,1
+286,ben johnson lane,1
+2172,romans ave & bayers rd,1
+306,birch cove lane,1
+2173,romkey dr,1
+285,belmont rd,1
+2113,richmond street,1
+353,bonavista dr,1
+2175,ronald smith avenue,1
+349,boling green cres,1
+350,bolton terr,1
+2176,rookey way,1
+2066,ramp fvo bjh ramp,1
+351,bonaventure dr,1
+2022,princess pl,1
+352,bonaventure st,1
+2020,prince william st,1
+2067,ramp fvo dv-k,1
+2068,ramp fvo dv-k ramp,1
+2179,ropewalk lane,1
+2180,rosborough loop,1
+2112,richmond st.,1
+2374,spinnaker dr,1
+231,beaver bank,1
+91,alma crescent,1
+2611,walker avenue,1
+78,alderney dr/ portland st,1
+2609,walcot run,1
+2608,wagner dr,1
+2607,waegwoltic ave,1
+2606,waddell ave,1
+79,alderney drive,1
+2603,viscaya pl,1
+2601,vintage lane,1
+80,aldnery dr,1
+2598,victoria road/frances street,1
+2597,victoria road near hwy merge,1
+82,alex st/ convoy ave,1
+2595,victoria rd/russel st,1
+2594,victoria rd/hwy en ramp,1
+2593,victoria rd sb exit  hwy  wb ramp,1
+85,allan st/oxford st,1
+2591,victoria rd nb exit  hwy  eb ramp,1
+2590,victoria rd and chappell street,1
+86,allan street,1
+87,allen st,1
+76,alderney,1
+75,aldergrove dr,1
+74,alder cres,1
+2631,waterwheel cres,1
+58,ahmadi cres,1
+2642,welkin dr,1
+2641,wedgewood crt,1
+59,aikens ave,1
+62,akerley dr dartmouth,1
+2636,"waverley rd.,",1
+63,akerly blvd,1
+2634,waverley,1
+2632,watson lane,1
+2629,waterside terr,1
+73,albrolake rd/ windmill rd,1
+2626,washmmill  lake drive,1
+2625,washmill lake drive,1
+2624,washmill lake dr/parking lot to theatres,1
+71,albro lake rd dartmouth ns,1
+72,albro lake road,1
+2621,warwick lane,1
+2620,ward ave,1
+2619,wanda ln,1
+2618,wamphray cres,1
+2585,veronica dr,1
+2583,verdi dr / damascus road,1
+2519,titus street,1
+94,alton dr,1
+2550,tupper grv,1
+2549,tulip st,1
+2548,tucker lake rd,1
+2547,trunk road,1
+2545,trunk  / hwy  / st. margarets bay rd.,1
+2542,troop ave,1
+107,andrew cobb crt,1
+2540,trinity way,1
+109,angus l macdonald bridge,1
+2536,trillium terr,1
+2535,trillium crt,1
+110,annandale st,1
+2533,tremont st,1
+112,apollo crt,1
+2531,travertine crt,1
+113,appian way,1
+2529,trailwood pl,1
+2528,trail  km from  hwy,1
+114,archibald dr,1
+2526,torrington drive,1
+115,archway crt,1
+2551,turnberry lane,1
+2552,turner dr,1
+2555,umlah rd,1
+100,amys dr,1
+95,amaranth cres,1
+2579,vanessa dr,1
+2578,valour way,1
+2577,valleyford ave,1
+96,amelia crt,1
+2574,upper water st/ valour way rd,1
+2573,upper water st.,1
+2572,upper water st ramp / barrington st,1
+99,amos walter dr,1
+2569,upper lakeville rd,1
+2559,uniake street,1
+2568,upper governor street highway,1
+101,anahid crt,1
+2566,upper governor road,1
+2565,unkown,1
+2564,unknown,1
+2563,university avenue,1
+2562,university ave & seymour street,1
+102,anchor dr,1
+104,anderson crt,1
+2644,wellington street,1
+2645,wells st,1
+2647,wendybrook dr,1
+2648,wenlock grv,1
+11,a gaston rd,1
+2739,woodill st,1
+12,a hazelhurst st,1
+2737,woodbine dr/ beaverbank rd,1
+2735,woodbine ave,1
+14,a kennedy dr,1
+15,a lahey rd,1
+2731,winwick rd,1
+2730,winslow dr,1
+2729,winona cres,1
+2728,winley dr,1
+2727,wineberry way,1
+2725,windsor terr,1
+2723,windsor street exchange,1
+16,a lakecrest dr,1
+2721,windsor st/,1
+17,a lewis st,1
+2719,windsor st exchange/bedford hwy,1
+2717,windsor junction road,1
+19,a marilyn dr,1
+2715,windsor drive,1
+2741,woodland ave.,1
+2742,woodland avenue,1
+2743,woodland rd,1
+2756,wyse rd/faulkerner st,1
+2766,young st/robie st,1
+3,/ conrod rd,1
+4,a adelaide ave,1
+2763,yorkshire ave,1
+2762,york st,1
+2761,yeadon dr / hughes dr,1
+2760,yarding crt,1
+5,a andover st,1
+6,a campbell ave,1
+7,a chain lake dr,1
+2744,woodlawn dr,1
+2754,wyndcrest dr,1
+2753,wright lake run,1
+8,a crane lake dr,1
+2750,woolawn rd and penhorn drive,1
+2749,woodsmere cl,1
+2748,woodside ave,1
+9,a dorothea dr,1
+2746,woodlawn rd.,1
+10,a frederick ave,1
+20,a mountain rd,1
+2712,windosr st,1
+22,a murray mackay brdg/robie st ramp,1
+42,acacia st,1
+2678,wilderness dr,1
+2677,wilbur crt,1
+39,abercrombie lane,1
+40,aberdeen crt,1
+2671,wexford rd,1
+41,abrams way,1
+2669,westview dr,1
+2668,westside inlet dr,1
+2667,westridge rd,1
+2663,westfield cres,1
+38,abbott rd,1
+2661,western pky,1
+2660,west street,1
+2656,west petpeswick road,1
+49,adlington crt,1
+50,aerotech dr,1
+52,agate trl,1
+2651,west dover rd,1
+54,agricola st & duffus st,1
+55,agricola st.,1
+2679,wildwood blvd,1
+2681,wilkinson avenue,1
+2710,windmill rd/wright ave,1
+29,a south st,1
+2708,windmill rd / wright ave,1
+2706,windgate dr / rivendale dr.,1
+24,a murray mckay bridge,1
+2703,wimbledon rd,1
+25,a owen dr,1
+26,a parkmoor ave,1
+2700,willowbend crt,1
+27,a pinegrov dr hfx ns,1
+28,a rosedale ave,1
+2696,williams avenue,1
+2682,willet,1
+2695,williams ave/wright ave,1
+30,a spry ave,1
+2692,william porter connector,1
+2691,william porter conn,1
+32,a. murray mackay bridge,1
+33,a. murray mckay bridge,1
+2685,willett,1
+2684,willet street,1
+2683,willet st,1
+2521,tobin street,1
+2518,titus st.,1
+2264,school street dartmouth ns,1
+199,"barrington st, halifax",1
+2359,south street near robie street,1
+2358,south street,1
+2357,south st at robie street,1
+192,barkton lane,1
+2355,south rd,1
+2354,south park street,1
+2353,south park st.,1
+2352,south park st / clyde st,1
+2350,south hwy,1
+2348,south armcrescent street,1
+2347,sonnys rd,1
+2345,solutions dr,1
+2344,solaris ridge,1
+2343,snowy owl dr,1
+2342,snow dr,1
+2341,sneezy ave,1
+2340,smokey dr/glendale dr,1
+196,barrington / cogswell,1
+2338,smiths rd,1
+198,barrington st & george st,1
+2336,smart st,1
+2360,south uniacke rd,1
+191,barkhouse settlement rd,1
+2362,southhaven cl,1
+2377,spring ave.,1
+2389,st andrews loop,1
+181,bakers dr,1
+2386,sprucewood ave,1
+2385,sprucevale dr,1
+2384,spruce view dr,1
+2382,springreen dr,1
+183,baldwin dr,1
+184,ballybunion run,1
+185,bambrick rd,1
+187,banks crt,1
+2363,southill dr,1
+1957,pine oak dr,1
+2372,spider lake rd,1
+189,bar harbour lane,1
+2370,spence dr/brookfield ave intersection,1
+190,bareng crt,1
+2368,spares crt,1
+2367,spar cres,1
+2366,sovereign cres,1
+2365,souwester lane,1
+2335,smallwood ave,1
+2333,skyvue terr,1
+119,argyle street,1
+200,barrington st.,1
+2297,shepherds lane,1
+2295,shelby dr,1
+2294,shawingan rd,1
+2292,shaughnessy pl,1
+2289,shannon dr,1
+2288,shady lane,1
+224,beach tree run,1
+225,beachside lane,1
+2284,serocco cres,1
+2280,selfridge way,1
+2278,sebastian st,1
+2277,sebastian pl,1
+2276,seawood ave,1
+226,beachstone dr,1
+2273,seafire ave,1
+2272,sea point rd,1
+2270,scott lane,1
+2269,scotia terr,1
+2267,science park dr,1
+2266,schultz st,1
+2265,schooner dr,1
+2299,sherbrooke dr,1
+217,bayers road & joseph howe drive,1
+215,bayers rd.,1
+205,barry allen dr,1
+2331,skye cres,1
+201,barrington st/prince st,1
+2328,sixth st,1
+2326,sioux rd,1
+2325,sinclair street,1
+202,barrington st/south street,1
+2323,simmonds st,1
+2322,simmonds road,1
+203,barrington st/upper water st,1
+206,basin vista dr,1
+2303,shore club rd,1
+2316,silver terr,1
+208,basinview drive,1
+2311,sienna crt,1
+2310,sibley st,1
+211,bayers lake,1
+2308,shrewsbury rd,1
+2307,shortcut rd,1
+2306,shoreview dr,1
+214,bayers rd and romans ave,1
+2390,st cecilia lane,1
+2391,st clair ave,1
+180,baker dr/freshwater trail,1
+2393,st georges lane,1
+2484,tanner james dr,1
+2483,tangmere cres,1
+2481,tamarack circ,1
+2480,tamara dr,1
+138,arthur st,1
+2478,tacoma dr. /  gordon ave.,1
+2477,tacoma dr.,1
+2476,"tacoma dr, dartmouth",1
+2473,ta,1
+2471,symonds rd,1
+142,ash tree crt,1
+2469,sylvania terr,1
+2467,sybyl crt,1
+2466,swindon dr,1
+2465,swanton dr,1
+2464,swan cres,1
+143,ashberry crt,1
+2460,susan dr,1
+147,ashvale lane,1
+2458,sunset lane,1
+2457,sunset dr,1
+2485,tantling cres,1
+2486,taranaki,1
+135,arnold dr.,1
+123,armcrest dr,1
+2516,titus ave,1
+2515,titanium cres,1
+120,arkle lane,1
+2513,timberlea village parkway,1
+2512,timberlane terr,1
+2509,tidewinds lane,1
+2507,thorngrove lane,1
+2505,thorncrest ct,1
+2504,thomas raddell drive,1
+124,armdale dr,1
+132,armshore dr,1
+2501,theresa mcneil grv,1
+126,armdale rot [ quinpool rd],1
+2499,the horseshoe,1
+2498,th street,1
+2497,th ave,1
+2496,terry rd,1
+128,armdale round about,1
+129,armdale traffic circle going south to chebucto road,1
+131,armoyan dr,1
+2456,sunset ave,1
+2455,sunrise lane,1
+2453,sunrise dr,1
+2406,st pauls lane,1
+168,avondale rd,1
+169,azita crt,1
+2414,stanley st/robie st,1
+170,azure crt,1
+2412,stanley pl,1
+2411,stanfield ave,1
+2410,stan gammon loop,1
+171,b catherine st,1
+2408,stairs pl,1
+173,b herring cove rd,1
+2420,stevens rd,1
+175,b kennedy dr,1
+2401,st margargets bay rd,1
+2400,st margarets road,1
+2399,st margarets bay road and alderwood drive,1
+176,b lahey rd,1
+177,b maynard st,1
+2396,st margaret's bay road,1
+178,bailee dr,1
+2394,st laurent pl,1
+2419,stella dr/highway,1
+166,avebury crt,1
+2452,sunnyvale cres,1
+159,atton rd,1
+149,aspen way cres,1
+2449,summerville dr,1
+2447,summer st/veterans memorial lane,1
+152,astral drive,1
+2445,sumac lane,1
+156,atikian dr,1
+2441,sugar maple dr,1
+2440,suffolk cl,1
+158,atlantic view dr,1
+2436,strathaven cl,1
+2422,stillwater crt,1
+160,attwood cres,1
+2433,stratford dr,1
+161,aubrey terr,1
+2431,stoney beach rd,1
+2430,stoneterrace road,1
+2429,stoneridge crt,1
+2428,stonehaven rd,1
+2427,stoneham crt,1
+164,autoport ave,1
+385,brian st,1
+907,feldspar cres,1
+386,brian street,1
+1260,intersection of mcgee and glendale,1
+1272,islandview dr,1
+1271,irving street,1
+744,dickey dr,1
+1269,irving ave,1
+1268,iroquois dr,1
+745,dickson ave,1
+1266,iris ave,1
+1265,ioney hill,1
+1262,inverary crt,1
+1261,intersection of sackville drive beaver bank rd,1
+1259,intersection main st vtm_amp hwy,1
+750,dogwood st,1
+1258,intersection lacewood and thomas riddell drive,1
+1257,intersection john savage ave akerley blvd,1
+1256,intercolonial st,1
+1254,innovation drive,1
+746,diggs dr,1
+1252,inletview rd,1
+747,dingle rd,1
+1250,ingram river lane,1
+748,divas lane,1
+749,division st,1
+743,diana dr,1
+1274,islilsey ave,1
+741,devonshire dr,1
+1277,jack fergusson ave,1
+1306,johnson dr,1
+1304,john savage ave and wright,1
+725,deerwood dr,1
+1301,john brenton dr,1
+1300,john brackett drive,1
+727,delmac crt,1
+1298,john bracket dr,1
+1296,joeseph howe dr,1
+1295,joe howe drive,1
+1294,joan elenor dr,1
+1293,jims lane,1
+729,delta drive,1
+1289,jeep cres,1
+733,dentith,1
+1285,jamieson dr,1
+1284,james street,1
+735,dentith rd/herring cove rd,1
+1281,jam lane,1
+737,dentith road/old sambro,1
+739,desmond avenue,1
+1278,jackladder dr,1
+1247,inglis streeet,1
+1245,inglewood dr,1
+1308,johnson road,1
+1192,highfield park dr & burnside dr,1
+774,driveway to costco chain lake dr,1
+1204,hillcreat ave,1
+1203,hilford st,1
+1201,hiking trail road,1
+1199,hihway  eb exit a,1
+776,drysdale rd and river rd,1
+1197,highwood st,1
+778,dubrack st,1
+779,duck pond rd,1
+1193,highfield park dr.,1
+780,dufferin mines rd,1
+1244,indian river rd,1
+1190,high timber dr,1
+783,duffus st & agricola st,1
+1186,hibernia crt,1
+1182,herring cove road and drysdale road cross walk,1
+1181,herring cove road and dentith street,1
+1179,herring cove rd.,1
+787,duke street exit c off ramp,1
+1176,herbert rd,1
+1175,henryst,1
+789,dunbrack,1
+773,drillio cres,1
+770,dresden road,1
+769,dresden rd,1
+768,doyle street,1
+751,doherty dr,1
+754,dopey lane,1
+1239,hummingbird dr,1
+1236,howe st,1
+755,dorey ave,1
+1234,houda crt,1
+1233,hoseph howe drive,1
+757,dorothy cres,1
+758,dorothy dr,1
+1229,horace loop,1
+1228,hood street,1
+1225,honeygold dr,1
+1224,honeydale cres,1
+1223,homeward ave,1
+1222,hollyhock way,1
+1219,hollis / prince st,1
+1218,holland rd vtm_amp highway,1
+763,downey road,1
+1216,hogan crt / larry uteck roundabout,1
+1214,hogan court,1
+766,doyle court,1
+1307,johnson rd,1
+1309,jollimore lane,1
+387,briar lane,1
+680,crestwood pl,1
+1410,lakeland st,1
+1409,lakehill dr,1
+1407,lakecrest dr./lylewood dr,1
+674,creelman dr,1
+1405,lake mist dr,1
+1404,lake major road,1
+676,creighton street,1
+677,crest dr,1
+1401,lake loon cres,1
+1400,lake egmont road,1
+682,crichton avenue,1
+1,- old guys borough rd,1
+683,crichton park rd,1
+1395,lahey dr,1
+1394,ladyhammond rd,1
+1393,lady hammond road,1
+684,cromwell rd,1
+1391,lacewood x dunbrack,1
+1390,lacewood drive and regional park,1
+685,crooked stick pass,1
+1388,lacewood dr/parkland dr,1
+1387,lacewood dr x dunbrack st,1
+672,cranston ave,1
+1412,lakemist crt,1
+1414,lakeside park dr,1
+668,cragg ave,1
+1440,larry uteck blvd roundabout,1
+1439,larry uteck blvd round about east bound toward bedford hwy,1
+656,countryview lane,1
+1437,larry uteck and bedford highway,1
+657,countryviewwrighta ramp,1
+1435,larry utech,1
+1434,larry u-tech blvd,1
+1433,larkview terr,1
+658,countryviewwrightb ramp,1
+1431,lapierre cres,1
+1430,lansing crt,1
+1429,langilles rd,1
+660,cove lane,1
+663,cow bay road and forestgate road,1
+1425,lancaster and woodland ave,1
+1424,lanarkshire crt,1
+1422,lamont terrace,1
+665,cowie hil rd,1
+667,crabapple lane,1
+1418,lakeview point rd,1
+1416,lakeview avenue,1
+1385,lacewood,1
+1383,kyles crt,1
+723,deckman back rd,1
+717,"dartmouth road, bedford, nova scotia",1
+705,dahlia steet,1
+1340,kearney lake rd/parkland dr,1
+1338,kearney lake dr,1
+707,dalkeith dr,1
+708,damascus dr,1
+1334,karen cres,1
+712,darjeeling dr,1
+1329,juniper way,1
+714,dartmouth,1
+1324,julie ann dr,1
+1322,judy anne dr,1
+1380,knightsridge,1
+1321,jubilee rd/preston st,1
+718,davison st,1
+1318,joshua slocum ave,1
+1317,josephine crt,1
+719,dawn dr,1
+720,dawn st,1
+1314,joseph st,1
+1313,joseph howe/bedford highway,1
+1312,joseph howe drive highway,1
+722,dean back rd,1
+1342,kearney lk rd,1
+1343,kelly rd,1
+703,d highway,1
+1347,kencrest ave,1
+1379,knight bridge dr,1
+1378,km  highway,1
+1376,kirtland crt,1
+1375,kipling dr,1
+689,crouchers point rd,1
+1373,kingswood drive,1
+693,cuddy lane,1
+1368,kingfisher cres,1
+1367,king street,1
+694,cuisack st,1
+1364,kincardine dr,1
+1361,killarney cres,1
+1360,keyworth lane,1
+1359,keystone crt,1
+1357,ketch harbour road,1
+1356,ketch harbour rd vtm_amp chebucto head rd,1
+697,cunard and hunter streets,1
+1354,ketch harbor rd,1
+1353,keough lane,1
+699,cunard street,1
+1351,kent rd,1
+1172,hennessey pl,1
+1171,hemlock st,1
+1170,hemlock dr,1
+987,freshwater trail,1
+1000,gantry rd,1
+999,gammon lake dr,1
+872,exit,1
+996,galaxy ave,1
+995,gainsborough pl,1
+994,gail terr,1
+992,fultz house lane,1
+873,exit  high,1
+874,exit  highway,1
+875,exit  hwy,1
+986,frenchman lake cmp,1
+972,four mile lane,1
+876,exit  hwy  to bedford,1
+877,exit c hwy  offramp,1
+878,exit g highway,1
+982,fred keyes crt,1
+981,fraser st,1
+879,exit h bedord hwy,1
+979,frankie dr,1
+978,frances st & victoria rd,1
+976,foxwood terr,1
+974,foxberry hill,1
+1001,garden dr,1
+1002,garden st,1
+871,exhibition grounds rd,1
+1004,garrison dr,1
+1035,glendale ave / exit c,1
+1033,glenda cres,1
+851,ellerslie cres,1
+1029,glen moir terr,1
+1028,glen mills terrace,1
+852,elliot st,1
+853,elm dr,1
+857,emerald cres,1
+1022,glacier rg,1
+1021,gilby cres,1
+1020,gibson st,1
+1019,giberson dr,1
+1017,gertrude dr,1
+859,ernest ave,1
+1015,george street / barrington street,1
+860,ernst ave,1
+1013,george jackson rd,1
+865,evelyn wood pl,1
+866,evelyns lane,1
+869,everwood ave,1
+1006,gary martin drive,1
+880,exit macdonald bridge on north street,1
+971,founders crt,1
+1169,helmsman crt,1
+922,findlay drive,1
+933,five island rd,1
+932,fiske st,1
+894,farmers dairy lane,1
+896,farquharson st,1
+928,fireside dr,1
+927,fir grove dr,1
+897,farrell road,1
+925,finlay drive,1
+899,farthington place,1
+900,fathom crt,1
+921,fieldwood circ,1
+881,ext,1
+901,faucheau lane,1
+919,fescue crt,1
+918,fescue ave,1
+917,feruz cres,1
+903,faulkner st.,1
+915,fern dr,1
+914,fern ave,1
+911,ferguson rd,1
+904,fawsons cove rd,1
+906,federale ave/romans ave,1
+893,fancyview dr,1
+890,falcon crest crt,1
+938,flatrock cres,1
+939,fleet club rd,1
+969,fortress dr,1
+968,fort york pssg,1
+967,forrester st,1
+966,forrest hills pky,1
+965,forrest hills parkway,1
+964,forrest ave,1
+963,forgotten lane,1
+961,forestglen dr,1
+882,extension of forest hills and main street,1
+956,"forest hills ext, highway  exit e off ramp",1
+884,faders rd,1
+953,forest hill ext,1
+951,forest glade dr,1
+950,foreext hills pky,1
+885,fairbanks st,1
+946,florence street,1
+944,florence ave,1
+943,floral ave,1
+942,fletcher dr,1
+888,fairview ave,1
+940,fleet settlement rd,1
+1036,glendale avenue,1
+848,elizabeth dr,1
+1038,glendale dr / temple terr,1
+1126,hall rd,1
+808,dutch village road and dutch village road,1
+1136,hammonds road and lucasville road,1
+810,e highway,1
+1134,hammonds plains rd.,1
+1133,hammonds plains rd hwy  eb exit off ramp,1
+811,e ramp,1
+1131,hammonds plains near exit  off ramp,1
+1129,hamilton lane,1
+1128,hamilton dr,1
+814,east chezzetcook road,1
+1125,"halifax, rowe ave",1
+1039,glendale dr [cobequid emergency],1
+1124,halifax street,1
+1123,halifax shopping centre blvd,1
+1122,halifax rotary,1
+1121,halifax regional municipality,1
+1120,halifax hwy,1
+1119,halifax,1
+1117,halfway lake dr,1
+1116,halef crt,1
+1115,haig st,1
+1114,hages lane,1
+1138,handspike crt,1
+1139,hannebury dr,1
+1142,harbour dr,1
+1143,hardisty crt,1
+790,dunbrack and donaldson avenue,1
+1167,heffler st,1
+791,dunbrack and lacewood,1
+792,dunbrack and spryfield,1
+794,dunbrack st.,1
+1163,heather st,1
+1160,hazelholme,1
+795,dunbrack st/ washmill,1
+1158,hawthorn st,1
+1157,hawk terr,1
+1156,haviland st,1
+1155,hatchery lane,1
+1152,harvest lane,1
+797,dunbrack street and highway,1
+799,duncans cove,1
+801,dunolly st,1
+803,dutch village,1
+805,dutch village rd and joseph howe dr,1
+1146,harris rd,1
+806,dutch village rd/supreme crt,1
+1144,hare lane,1
+1113,hagen rd,1
+1109,gumps rd,1
+1108,guildwood cres,1
+1067,government rd,1
+1065,goudey dr,1
+1063,gottingen st/buddy daye st,1
+1062,gottingen st.,1
+840,eisenor blvd,1
+841,eisner blvd/portland estates blvd west,1
+1059,gordon st,1
+1058,gordon ave/main st,1
+842,elderbank back rd,1
+1056,gorden ave,1
+1055,golf view dr,1
+1054,golf links rd,1
+1053,golf club rd,1
+1052,golden way,1
+844,eleanor marie lane,1
+1049,glenwood dr,1
+845,elgin street,1
+1046,glengary dr,1
+1045,glenforest drive,1
+1043,glendale extension,1
+1042,glendale drive ext,1
+1040,glendale dr.,1
+838,"eisener blvd.,",1
+835,edwin ford crt,1
+817,east jeddore road,1
+1071,grafton street,1
+1102,grindstone dr,1
+818,east larry utech roundabout ( inbound),1
+822,east river rd,1
+1095,greenough dr,1
+1094,greenhill road,1
+1092,greenhead rd,1
+1091,greenborough cres,1
+1090,green village lane dartmouth ns,1
+823,eastbrook ave,1
+1088,green street vtm_amp barrington street,1
+824,eastview dr,1
+825,eaton ave,1
+1085,greely crt,1
+1082,granville rd,1
+828,edgett dr,1
+1077,grandview dr,1
+1076,grandhaven blvd,1
+1075,grand desert station rd,1
+1074,grahams grv to main ramp,1
+832,edward arab ave,1
+1072,graham st,1
+1441,larry uteck blvd/ starboard drive,1
+1442,larry uteck blve,1
+1444,larry uteck roundabout,1
+477,cartaret st,1
+1801,north preston rd.,1
+1799,north park street,1
+467,carisbrooke lane,1
+1797,north park  street,1
+1794,north fork rd,1
+1793,north,1
+469,carlheath dr,1
+1786,niobe gate brdg,1
+474,carmichael street,1
+476,carrington pl,1
+1781,nicole crt,1
+1767,near romans ave toward connaught ave,1
+1780,nicholson dr,1
+1779,newton ave,1
+1778,newport dr,1
+478,carter rd,1
+1775,nestor cres,1
+1774,neptune crescent,1
+1773,nelsons landing blvd/bedford hwy,1
+481,castlepark grv,1
+1771,nelson hill rd,1
+1769,neilson dr,1
+1803,north preston road / lake major road,1
+463,canting dr,1
+1806,"north st., halifax",1
+1807,north stq,1
+1831,o mackay bridge,1
+1830,o gary martin dr,1
+453,cameron loop,1
+455,camp rd,1
+1826,nova scotia trunk highway,1
+1825,nova scotia trunk  inbound,1
+1824,nova scotia trunk,1
+1823,nova scotia highway,1
+1822,nova crt,1
+456,campbell dr,1
+1820,nottingham dr,1
+1819,notting hill drive,1
+1818,norwood street,1
+457,camperdown rd,1
+458,canal st,1
+1815,northwood rd,1
+1814,northwest arm drive,1
+1812,northcliffe lane,1
+1811,northcliffe dr,1
+1810,north west arm dr.,1
+460,candy mountain rd,1
+1768,nearshore lane,1
+1766,"near m highway , near merle pt",1
+1702,milo terr,1
+507,chamberlain dr,1
+1730,morris street,1
+499,central st,1
+1728,morris lake dr,1
+1726,morris ave,1
+1725,morris,1
+1723,morningfield lane,1
+1722,moran st,1
+505,chain rock dr,1
+506,chalamont dr,1
+1719,moose river gold mines cmp,1
+511,chani dr,1
+1765,nautical way,1
+1715,montague rd/ hwy,1
+515,charles street,1
+517,chartwell lane,1
+1711,monastery lane & quinpool rd,1
+518,chartwell rd,1
+1709,monastary lane,1
+519,chebogue lane,1
+1706,mona parsons dr,1
+520,chebucto,1
+521,chebucto lane,1
+497,centennial highway exit  off ramp,1
+1732,mosher lane,1
+1733,mott st,1
+496,centennial dr,1
+1764,nauglers settlement rd,1
+1763,nappan dr,1
+488,cavendish rd,1
+1758,myers point rd,1
+1757,mushroom rd,1
+489,caxton cl,1
+1755,murray st,1
+1753,murray pl,1
+1751,murray mackay bridge,1
+1750,murray hill dr,1
+1748,murdock mackay crt,1
+1747,murchyville rd,1
+1746,mumford road halifax shopping center,1
+1744,mumford rd / leppert st,1
+492,cedarwood dr,1
+1742,mozier cove rd,1
+1741,mouth edward rd,1
+493,cedarwood drive,1
+1738,mountain maple dr,1
+1737,mountain ave,1
+1735,mount edward road,1
+1832,o nelsons landing blvd,1
+1833,o roxham cl,1
+450,caledonia road,1
+1913,parkland dr.,1
+1924,payzant ave,1
+1923,paxton dr,1
+1922,paula dr,1
+1921,paul david court,1
+1919,patricia st,1
+405,brodick lane,1
+1917,parron drive,1
+1916,parkwood pl,1
+1915,parkmoor ave,1
+1914,parkland drive,1
+406,bromley rd,1
+1835,oakdale dr,1
+1910,parker lane,1
+410,brookhill dr,1
+1908,panavista dr,1
+1907,paddys head rd,1
+1906,paces lake dr,1
+414,brookside ave,1
+1904,oxford st/ chebucto rd,1
+1903,oxford st / pepperell st,1
+1902,oxford st / bayers rd,1
+416,brookview dr,1
+1925,peachtree hill,1
+403,broadholme lane,1
+402,broad street,1
+1928,pearson drive,1
+1954,pickard lane,1
+388,briarlynn cres,1
+1952,philip dr,1
+1951,pewter lane,1
+1950,peter thomas dr,1
+1948,peter buckley dr,1
+390,briarwood crt,1
+1946,peruz crt,1
+1944,perrin drive,1
+392,bridges st,1
+393,bridget ave,1
+394,bridgeview dr,1
+1939,penny lane,1
+1938,penny ave,1
+396,"brigadoon ave, dartmouth",1
+398,brightwood avenue,1
+1934,peggys cove road,1
+1932,peggy's cove rd,1
+400,bristolton ave,1
+1930,peddard way,1
+1929,pebblecreek cres,1
+1900,oxford,1
+1899,owen dr,1
+1898,overpass bayers rd,1
+1865,old cobequid rd,1
+438,burnside dr.,1
+440,burnside drive overpass,1
+441,butler rd,1
+1859,offramp g hwy  northbound,1
+1858,offramp c hwy,1
+1857,off-ramp nb burnside dr,1
+1856,off ramp  northbound,1
+1855,octherloney st,1
+1854,octalony street,1
+1852,ochterloney st at victoria road,1
+442,c lahey dr,1
+1850,ochertloney st,1
+443,c waverley rd,1
+445,cabot pl,1
+1846,oceanfront dr,1
+1844,oathill cres,1
+1843,oakwood crt,1
+1842,oakwood court,1
+1840,oakmount dr,1
+1839,oakleigh ave,1
+448,caldwell rd x cole harbour rd,1
+1863,old birch rd,1
+1867,old gays river road,1
+1896,outbount exit b,1
+435,burbridge ave,1
+419,brownstone way,1
+1894,otter lake crt,1
+420,brrington st ramp,1
+421,bruce dr,1
+1891,osprey dr,1
+1890,osborne st and dunbrack st,1
+422,bruce st,1
+1888,orion crt,1
+424,brunello blvd,1
+1885,onyx cres,1
+426,brunswick st / rainie dr,1
+1882,olive ave,1
+1881,olie st,1
+428,brushy hill rd,1
+1879,old truro rd,1
+429,brussels st,1
+430,bucheron cres,1
+1874,old sambro  rd,1
+1873,old sackville rd.,1
+1871,old post rd,1
+1869,old guysborough road / highway,1
+523,chebucto rd & mumford rd,1
+524,chebucto rd/philip st,1
+1445,lasalle crt,1
+1525,louise ave,1
+616,connaught,1
+618,connaught ave.,1
+1534,lower water street and barrington street,1
+1533,lower water street,1
+619,connaught ave/chebucto rd,1
+1531,lower prospect rd,1
+1530,lower partridge river road,1
+620,connaught avenue,1
+1528,lovett st,1
+1526,louise crt,1
+1524,lorne terr,1
+627,cono dr,1
+1523,lorne dr,1
+1522,loonview lane,1
+1521,lookoff lane,1
+1520,longburn dr,1
+1518,longard plaza,1
+1517,long lake dr,1
+1515,londonberry dr,1
+1510,logan rd,1
+625,connoly st,1
+626,connor lane,1
+1537,lucien drive,1
+1539,lugar crt,1
+1540,lumsden cres,1
+1541,lundy dr,1
+602,colonna pl.,1
+1565,mackay bridge / windsor st ramp,1
+1564,mackay bridge (mid span),1
+1562,mackay brdg halifax bound,1
+603,colony way,1
+1559,macdonald cove road and highway,1
+1558,macdonald cove rd and highway,1
+1557,macdonald bridge/ wyse rd,1
+1556,macdonald bridge halifax bound median,1
+1555,macdonald bridge,1
+604,columbo dr,1
+606,columbus street,1
+1552,lyons ave,1
+1551,lynwood ave,1
+607,colville crt,1
+1549,lynnett rd\herring cove rd,1
+609,commodore ave,1
+611,commodore dr.,1
+1544,lylewood dr,1
+614,compton ave & windsor st,1
+1542,lydgate dr,1
+1505,lochmoor lane,1
+629,conrad's rd,1
+526,chebucto road between quinn and benjamin moore,1
+652,coulter cres,1
+1473,lemont terr,1
+1472,lemon walk,1
+646,cornwallis street,1
+1470,lemarchant street,1
+1469,lemarchant st.,1
+648,coronation avenue,1
+649,corsair dr,1
+1464,leeds street,1
+651,cottontail lane,1
+1461,leander dr,1
+1459,ld sambro rd,1
+632,contessa crt,1
+1458,layton rd,1
+1456,lawson ave,1
+653,country lake dr,1
+655,countryview dr/mcclure cl,1
+1453,lawrence robinson lane,1
+1452,lawnwood ave,1
+1451,lavender walk,1
+1450,laurier st,1
+1449,laurentide dr,1
+1448,laurentian dr,1
+644,cornwallis and gottingen streets,1
+1475,leppert street,1
+643,cornwallis,1
+1478,lethbridge ave,1
+1501,lively rd,1
+1500,little albro lake,1
+1499,lindsay dr,1
+1498,lindsay crt,1
+1497,lindenwood terr,1
+1495,linden lane,1
+1494,linden crt,1
+1493,linda lane,1
+639,cork street,1
+1491,lincoln cross dr,1
+640,corner of eisner street and portland st,1
+1489,limerick rd,1
+1488,lillian dr,1
+641,cornwall and preston street,1
+1486,lights burnside drive exit to hwy,1
+1485,lighthouse rte halifax ns,1
+1483,lexington ave,1
+1482,lewis st,1
+1481,lewis lake terr,1
+1480,lewis dr,1
+1479,levis st,1
+1567,mackay st,1
+600,colonel joseph scott dr,1
+1569,maclaughlin rd,1
+1651,mcfetridge rd,1
+1662,meadow road,1
+554,circumferential highway,1
+1660,meadow green walk,1
+1659,mcpherson rd,1
+1658,mcmullin rd,1
+1656,mclennan ave,1
+1655,mclean st,1
+1654,mckay bridge,1
+1653,mcintosh st,1
+555,circumfrential,1
+556,citation dr,1
+1570,maclean ave,1
+1649,mcdougall ave,1
+1648,mcdonald rd,1
+558,claremont st,1
+1645,mccormacks lane,1
+1643,mcclure,1
+561,claymore ave,1
+563,clearview cres,1
+564,clearview st,1
+1639,maynard street,1
+1638,maynard st.,1
+1663,meadow walk,1
+551,churchill terr,1
+1666,meadowsweet rd,1
+1668,medina crt,1
+1698,miller rd,1
+527,chebuctoroad and harvard street,1
+528,chebutco,1
+1694,midnight run,1
+529,chebuto road,1
+531,cherry lane,1
+533,cherrywood dr,1
+534,cherylann dr,1
+1687,metropolitan ave / kingfisher way,1
+537,chestnut laneqq,1
+539,chinook crt,1
+1684,merkel st,1
+1683,merchant crt/transom drive,1
+542,christie court,1
+1678,melton ave,1
+546,church point variety,1
+1674,mellowglen crt,1
+1672,melham drive,1
+1671,melham dr,1
+1670,meeting house hill,1
+1669,medway crt,1
+565,clement st,1
+1636,mayhill crt,1
+1635,mayhill court,1
+587,coldstream run,1
+590,cole harbour road,1
+1595,main to braemar ramp,1
+1594,main street dartmouth,1
+1593,main street and forest hills parkway,1
+1591,main st/ woodland rd,1
+1590,main st. eastern passage,1
+1588,"main st, dartmouth",1
+1587,main st eastbound,1
+1586,main st dartmouth,1
+593,colford ave,1
+1583,main ramp to braemar,1
+1582,main avenue,1
+1581,main ave/gebhardt st,1
+1579,main,1
+1578,mailing street,1
+597,collins grove,1
+1576,mahone bay,1
+1575,maheux lane,1
+1574,magenta dr,1
+1572,madeline ave,1
+1571,macrae ave,1
+588,cole dr,1
+1601,mann st,1
+1633,mayfair ave,1
+585,colburn walk,1
+1631,maxwell ave,1
+1630,mawiomi pl,1
+568,cliff st,1
+1627,masons point rd,1
+569,clifford dr,1
+1625,martin lake dr,1
+572,clivedon crt,1
+1620,marker  highway,1
+1619,marine parade dr,1
+1618,marine gtwy,1
+1617,marie dr,1
+573,cloverdale rd,1
+1615,margeson drive and sackville drive,1
+1614,margeson drive,1
+1610,margaret lorne dr,1
+1609,maranatha dr,1
+578,cobequid,1
+1607,maplehurst dr,1
+581,codroy ave,1
+583,cogswell street,1
+584,colburg,1
+0,- hammonds plains rd,1

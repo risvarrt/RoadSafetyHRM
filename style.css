@@ -1,0 +1,57 @@
+/* Hover effect for statistic cards */
+.hover-card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Custom styling for the year selector buttons */
+#year-selector-stats input[type="radio"] + label {
+    transition: all 0.3s ease-in-out;
+}
+
+#year-selector-stats input[type="radio"]:checked + label {
+    background-color: #007bff; /* Active color */
+    color: white;
+    border: 1px solid #007bff;
+    transform: scale(1.1);
+    font-weight: bold;
+}
+
+/* Center alignment for icons */
+.stat-card-icon {
+    font-size: 3rem;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+/* Spacing and alignment for card content */
+.card-title {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.card-text {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+/* Add shadow for year selector card */
+.shadow-sm {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .hover-card {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    #year-selector-stats {
+        flex-direction: column;
+    }
+}
