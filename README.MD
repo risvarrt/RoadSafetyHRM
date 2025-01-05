@@ -41,7 +41,7 @@ Road Safe HRM is an interactive tool designed to improve road safety in Halifax 
 
 ## Architecture Diagram
 
-*(Attach your architecture diagram here.)*
+![Architecture Diagram](assets\roadhrm.drawio.png)
 
 ---
 
@@ -66,13 +66,39 @@ Road Safe HRM is an interactive tool designed to improve road safety in Halifax 
 
 ## Dataset
 
-- **Source**: Halifax Open Data Portal
+- **Source**: [Halifax Open Data Portal](https://data-hrm.hub.arcgis.com/pages/open-data-downloads)
 - **Size**: 35,414 rows and 31 columns after preprocessing.
 - **Key Features**:
   - Geospatial data (latitude, longitude)
   - Environmental factors (weather, lighting)
   - Temporal data (year, month, hour)
   - Collision severity metrics
+
+---
+
+## Dashboards
+
+1. **Collision Statistics Visualization**  
+   ![Collision Statistics](assets\1.png)
+
+2. **EDA (Exploratory Data Analysis) Heatmap**  
+   ![EDA Heatmap](assets\2.png)
+
+3. **Temporal Collision Trends**  
+   ![Temporal Trends](assets\3.png)
+
+4. **Hot Routes Map**  
+   ![Hot Routes Map](assets\6.png)
+
+5. **Clustering Tab - DBSCAN Output**  
+   ![Clustering Results](assets\7.png)
+
+6. **Collision Likelihood Gauge Chart**  
+   ![Collision Likelihood](assets\8.png)
+
+7. **Interactive Dashboard Overview**  
+   ![Dashboard Overview](path/to/dashboard_overview.png)
+
 
 ---
 
