@@ -6,6 +6,12 @@ Road Safe HRM is an interactive tool designed to improve road safety in Halifax 
 
 ---
 
+## Demo
+
+![Demo](assets/RoadSafetyHRM-gif.gif)
+
+---
+
 ## Features
 
 - **Interactive Visualizations**:
